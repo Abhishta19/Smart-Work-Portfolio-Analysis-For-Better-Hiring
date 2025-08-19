@@ -12,13 +12,13 @@ It analyzes resumes, filters candidates, ranks them, and automatically sends sel
 
 ## ✨ Features  
 
-✅ Upload resumes (PDF/DOCX) via web interface  
-✅ Resume parsing & preprocessing using `spaCy` & `NLTK`  
-✅ Vectorization (TF-IDF) for feature extraction  
-✅ KNN + Cosine Similarity for ranking resumes  
-✅ Automatic email notifications for selected/rejected candidates  
-✅ MySQL database integration for storing candidate data  
-✅ User-friendly web interface with HTML, CSS, JS  
+- Upload resumes (PDF/DOCX) via web interface  
+- Resume parsing & preprocessing using `spaCy` & `NLTK`  
+- Vectorization (TF-IDF) for feature extraction  
+- KNN + Cosine Similarity for ranking resumes  
+- Automatic email notifications for selected/rejected candidates  
+- MySQL database integration for storing candidate data  
+- User-friendly web interface with HTML, CSS, JS  
 
 ---
 
