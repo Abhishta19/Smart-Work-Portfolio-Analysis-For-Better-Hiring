@@ -1,6 +1,9 @@
 # 🚀 Smart Work Portfolio Analysis – AI Powered Resume Screening  
 
-![AI Resume Screening](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-WebApp-black?logo=flask&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql&logoColor=white)  
+
 
 📌 An **intelligent resume screening system** that automates the candidate shortlisting process by leveraging **NLP, Machine Learning, and Flask**.  
 It analyzes resumes, filters candidates, ranks them, and automatically sends selection/rejection emails 📧.  
@@ -9,14 +12,13 @@ It analyzes resumes, filters candidates, ranks them, and automatically sends sel
 
 ## ✨ Features  
 
-✅ **Upload Resumes** (PDF/DOCX) via web interface  
-✅ **Resume Parsing & Preprocessing** using `spaCy` & `NLTK`  
-✅ **Vectorization (TF-IDF)** for feature extraction  
-✅ **KNN + Cosine Similarity** for ranking resumes against job descriptions  
-✅ **Top Candidate Selection** with automated scoring system  
-✅ **Email Automation** – sends personalized **selection/rejection emails**  
-✅ **MySQL Integration** for storing resumes & candidate data  
-✅ **User-Friendly Web Interface** with HTML, CSS, JS  
+✅ Upload resumes (PDF/DOCX) via web interface  
+✅ Resume parsing & preprocessing using `spaCy` & `NLTK`  
+✅ Vectorization (TF-IDF) for feature extraction  
+✅ KNN + Cosine Similarity for ranking resumes  
+✅ Automatic email notifications for selected/rejected candidates  
+✅ MySQL database integration for storing candidate data  
+✅ User-friendly web interface with HTML, CSS, JS  
 
 ---
 
@@ -32,6 +34,3 @@ It analyzes resumes, filters candidates, ranks them, and automatically sends sel
 </p>  
 
 ---
-
-## 📂 Project Structure  
-
